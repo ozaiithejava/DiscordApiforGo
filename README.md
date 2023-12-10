@@ -32,4 +32,5 @@ http://localhost:3000/player?name=ur_name
  #### In Html Format:
 ```Link
 
-http://localhost:3000/player?name=ur_name&inhtml=true ```
+http://localhost:3000/player?name=ur_name&inhtml=true
+ ```
